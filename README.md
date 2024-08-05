@@ -18,7 +18,7 @@ git clone https://github.com/vsingh0196/CypressAutomationPL.git
 ```
 ### Navigate into the project directory:
 ```bash
-cd project-directory
+cd CypressAutomationPL
 ```
 ### Install dependencies:
 ```bash
