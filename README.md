@@ -23,6 +23,7 @@ cd CypressAutomationPL
 ### Install dependencies:
 ```bash
 npm install
+npm install cypress --save-dev
 ```
 ### Running Tests
 To execute the test scripts using Cypress, follow these steps:
