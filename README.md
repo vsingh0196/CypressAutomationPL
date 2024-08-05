@@ -1,8 +1,8 @@
 ## Overview
 This repository contains test scripts written in Cypress for automated testing of Pricelabs feature. These tests are designed to ensure the functionality and reliability of 2 features:
 
--**Multicalendar DSO Feature**
--**Login & Logout**
+- **Multicalendar DSO Feature**
+- **Login & Logout**
 
 ## Prerequisites
 Before running the tests, ensure you have the following installed:
